@@ -29,13 +29,15 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Postgraduate Scholarship - Doctoral Level
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Graduate Scholarship - Master's Level
+        - Ontario Graduate Scholarship 
+        - University of Waterloo President Scholarship
+        - Sandford Fleming Teaching Assistantship Excellence Award
 
 - title: Academic Interests
   type: nested_list
