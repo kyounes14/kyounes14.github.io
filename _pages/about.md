@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student at Stanford working with [Matthias Ihme](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/people/matthias-ihme/). My research focuses on integrating ML approaches to X-ray scattering experiments, with the main goal being an improved understanding of the underlying chemical physics. 
+I’m a PhD student at Stanford working with [Matthias Ihme](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/people/matthias-ihme/). My research focuses on integrating ML approaches to X-ray scattering experiments, with the main goal being developing an improved understanding of the underlying chemistry. 
 
 Prior to Stanford, I completed my master’s and bachelor’s degrees at the University of Waterloo, Ontario, Canada, where I was supervised by [Jean-Pierre Hickey](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/j6hickey). Past research projects have included turbulence wall modeling (master’s thesis), fluidic shock-vectoring, indirect noise, and passive control of turbulence.
 
