@@ -9,13 +9,13 @@
       institution: Stanford University, Stanford, California
       year: 2021 - Present
       description:
-        - Working with Matthias Ihme, Eric Darve, and Stefano Ermon on deploying ML solutions for online analysis and interpretation of X-ray scattering experiments. 
+        - Working with <a href="https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/people/matthias-ihme/">Matthias Ihme</a>, <a href="https://profiles.stanford.edu/eric-darve">Eric Darve</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> on deploying ML solutions for online analysis and interpretation of X-ray scattering experiments. 
         - Current emphasis is on ultrafast excited-state processes and cluster dynamics of supercritical fluids.  
     - title: Master of Applied Science 
       institution: University of Waterloo, Waterloo, Ontario
       year: 2021
       description:
-        - Worked with Jean-Pierre Hickey on turbulence wall modeling and control, indirect noise, and fluidic-shock vectoring. 
+        - Worked with <a href="https://uwaterloo.ca/engineering/profile/j6hickey">Jean-Pierre Hickey</a> on turbulence wall modeling and control, indirect noise, and fluidic-shock vectoring. 
     - title: Bachelor of Applied Science 
       institution: University of Waterloo, Waterloo, Ontario
       year: 2017
@@ -43,11 +43,5 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Reduced-order Modeling of Complex Systems
+    - title: Machine Learning for Scientific Discovery
