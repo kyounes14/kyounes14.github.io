@@ -66,8 +66,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 scholar_userid: zMS4JHEAAAAJ&hl 
-research_gate_profile: Khaled-Younes-5 # your profile on ResearchGate
-github_username: kyounes14 # your GitHub user name
+research_gate_profile: # your profile on ResearchGate
+github_username: # your GitHub user name
 linkedin_username: khaled-younes # your LinkedIn user name
 twitter_username: _KhaledYounes # your Twitter handle
 blogger_url: # your blogger URL
