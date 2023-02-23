@@ -1,6 +1,6 @@
 - title: Khaled Younes
   type: list
-  contents: ME PhD Student @ <a href="https://me.stanford.edu/">Stanford</a>
+  contents: PhD Candidate @ <a href="https://me.stanford.edu/">Stanford ME</a>
 
 - title: Education
   type: time_table
@@ -10,7 +10,6 @@
       year: 2021 - Present
       description:
         - Working with <a href="https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/people/matthias-ihme/">Matthias Ihme</a>, <a href="https://profiles.stanford.edu/eric-darve">Eric Darve</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> on ML solutions for online analysis and interpretation of X-ray scattering experiments. 
-        - Current emphasis is on ultrafast excited-state processes and cluster dynamics in supercritical fluids.  
     - title: Master of Applied Science 
       institution: University of Waterloo, Waterloo, Ontario
       year: 2021
@@ -20,28 +19,28 @@
       institution: University of Waterloo, Waterloo, Ontario
       year: 2017
 
-- title: Research Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Research Engineer
+    - title: Research Assistant
       institution: Multi-Physics Interaction Laboratory, Waterloo, Ontario
       year: 2017 - 2019
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2021
-      items: 
-        - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Postgraduate Scholarship - Doctoral Level
-    - year: 2020
-      items: 
-        - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Graduate Scholarship - Master's Level
-        - Ontario Graduate Scholarship 
-        - University of Waterloo President Scholarship
-        - Sandford Fleming Teaching Assistantship Excellence Award
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2021
+#       items: 
+#         - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Postgraduate Scholarship - Doctoral Level
+#     - year: 2020
+#       items: 
+#         - <a href="https://www.nserc-crsng.gc.ca/index_eng.asp">NSERC</a> Graduate Scholarship - Master's Level
+#         - Ontario Graduate Scholarship 
+#         - University of Waterloo President Scholarship
+#         - Sandford Fleming Teaching Assistantship Excellence Award
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Reduced-order Modeling of Complex Systems
-    - title: Machine Learning for Scientific Discovery
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Reduced-order Modeling of Complex Systems
+#     - title: Machine Learning for Scientific Discovery
