@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student at Stanford working with Matthias Ihme. My research focuses on developing reduced-order, physics-informed models to describe fluid behavior in complex environments. I am particularly interested in using machine learning and data-driven methods to understand non-equilibrium processes under extreme conditions, including X-ray irradiation and ultrafast scattering experiments. hello! Hello again. Hello. kmckmcf kvmkvm vyvk
+I’m a PhD student at Stanford working with Matthias Ihme. My research focuses on developing reduced-order, physics-informed models to describe fluid behavior in complex environments. I am particularly interested in using machine learning and data-driven methods to understand non-equilibrium processes under extreme conditions, including X-ray irradiation and ultrafast scattering experiments. hello! Hello again. Hello. kmckmcf kvmkvm vyvk ehllo
 
 Prior to Stanford, I completed my master’s and bachelor’s degrees at the University of Waterloo, Ontario, Canada, where I was supervised by [Jean-Pierre Hickey](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/j6hickey). Past research projects have included turbulence wall modeling ([<ins>master's thesis</ins>](/assets/pdf/KYounes_MASc_Thesis.pdf)), fluidic shock-vectoring, indirect noise, and passive control of turbulence.
 
