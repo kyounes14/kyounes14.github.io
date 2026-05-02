@@ -7,17 +7,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD 
+    - title: PhD in Mechanical Engineering
       institution: Stanford University, Stanford, California
-      year: 2021 - 2026
+      year: 2026 (expected)
       description:
-        - Working with Matthias Ihme on reduced-order models for interpretation of X-ray scattering experiments and ML solutions for online analysis. 
-    - title: Master of Applied Science 
+        - Working with Matthias Ihme on ML solutions and reduced-order models for online analysis and interpretation of X-ray scattering experiments. 
+    - title: Master of Applied Science in Mechanical Engineering
       institution: University of Waterloo, Waterloo, Ontario
       year: 2021
       description:
         - Worked with <a href="https://uwaterloo.ca/engineering/profile/j6hickey">Jean-Pierre Hickey</a> on turbulence wall modeling and control, indirect noise, and fluidic-shock vectoring. 
-    - title: Bachelor of Applied Science 
+    - title: Bachelor of Applied Science in Mechanical Engineering
       institution: University of Waterloo, Waterloo, Ontario
       year: 2017
 
