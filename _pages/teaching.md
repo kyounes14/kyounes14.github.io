@@ -23,7 +23,7 @@ Teaching Assistant - Fluid Mechanics I (ME 351) & Heat Transfer (ME 353), 2020 -
 
 In-House Residence Tutor — Claudette Millar Hall, 2017 - 2018
 <ul>
-<li>Tutored 10 first-year engineering students in calculus on a weekly basis.<li>
+<li>Tutored 10 first-year engineering students in calculus on a weekly basis.</li>
 </ul>
 
 General Teaching Assistant — Waterloo Engineering Endowment Foundation, 2014
