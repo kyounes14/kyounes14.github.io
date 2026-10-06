@@ -7,35 +7,27 @@ nav: true
 nav_order: 2
 ---
 
-<h1>Graduate Teaching Assistant — Stanford Mechanical Engineering</h1>
-
-January 2024 – April 2026
-
-<h2>ME 30: Engineering Thermodynamics · ME 357: Gas Turbine Analysis</h2>
+<h3>Stanford University</h3> 
+Teaching Assistant - Engineering Thermodynamics (ME 30) & Gas Turbine Analysis (ME 357), 2024 - 2026
 <ul>
 <li>Delivered lectures and bi-quarterly review sessions to 60+ students covering advanced thermodynamic concepts.</li>
 <li>Prepared and graded examinations, regularly monitoring student progress and ensuring fair assessment.</li>
 <li>Held weekly help sessions providing one-on-one support on course material.</li>
 </ul>
 
-<h3>Graduate Teaching Assistant — University of Waterloo, Faculty of Engineering</h3>
+<h3>University of Waterloo</h3>
+Teaching Assistant - Fluid Mechanics I (ME 351), Heat Transfer (ME 353), 2020 - 2021
+<ul>
+<li>Ran tutorial sessions and marked examinations for 85+ third-year mechanical engineering students.</li>
+</ul>
 
-January 2020 – August 2021
+In-House Residence Tutor — Claudette Millar Hall, 2017 - 2018
+<ul>
+<li>Tutored 10 first-year engineering students in calculus on a weekly basis.<li>
+</ul>
 
-ME 353: Heat Transfer · ME 351: Fluid Mechanics I
-
-Ran tutorial sessions and marked examinations for 85+ third-year mechanical engineering students.
-
-In-House Residence Tutor — Claudette Millar Hall
-
-September 2017 – April 2018
-
-Tutored 10 first-year engineering students in calculus on a weekly basis.
-
-General Teaching Assistant — Waterloo Engineering Endowment Foundation
-
-January 2014 – April 2014
-
-Mentored and advised 450+ first-year students, emphasizing time management and perseverance.
-
-Conducted weekly and monthly help sessions in calculus and physics for approximately 150 students.
+General Teaching Assistant — Waterloo Engineering Endowment Foundation, 2014
+<ul>
+<li>Mentored and advised 450+ first-year students, emphasizing time management and perseverance.</li>
+<li>Conducted weekly and monthly help sessions in calculus and physics for approximately 150 students.</li>
+</ul>
