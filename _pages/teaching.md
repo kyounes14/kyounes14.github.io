@@ -15,7 +15,7 @@ Teaching Assistant — [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fa
 <li>Held weekly help sessions providing one-on-one support on course material.</li>
 </ul>
 
-<u><h4>University of Waterloo</h4></u>
+<h4><u>University of Waterloo</u></h4>
 Teaching Assistant — Fluid Mechanics I (ME 351) & Heat Transfer (ME 353), 2020 - 2021
 <ul>
 <li>Ran tutorial sessions and marked examinations for 85+ third-year mechanical engineering students.</li>
