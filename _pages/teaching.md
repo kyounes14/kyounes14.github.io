@@ -26,7 +26,7 @@ In-House Residence Tutor — Claudette Millar Hall, 2017 - 2018
 <li>Tutored 10 first-year engineering students in calculus on a weekly basis.</li>
 </ul>
 
-General Teaching Assistant — Waterloo Engineering Endowment Foundation, 2014
+General Teaching Assistant — [Waterloo Engineering Endowment Foundation](https://uwaterloo.ca/engineering-endowment-foundation/), 2014
 <ul>
 <li>Mentored and advised 450+ first-year students, emphasizing time management and perseverance.</li>
 <li>Conducted weekly and monthly help sessions in calculus and physics for approximately 150 students.</li>
