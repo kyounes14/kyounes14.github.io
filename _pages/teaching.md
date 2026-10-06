@@ -19,6 +19,7 @@ Teaching Assistant - [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall
 Teaching Assistant - Fluid Mechanics I (ME 351) & Heat Transfer (ME 353), 2020 - 2021
 <ul>
 <li>Ran tutorial sessions and marked examinations for 85+ third-year mechanical engineering students.</li>
+<li>Nominated for and received the Sandford Fleming Foundation Teaching Assistantship Excellence Award.</li>
 </ul>
 
 In-House Residence Tutor — Claudette Millar Hall, 2017 - 2018
