@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Canada Impact+ Postdoctoral Researcher at the University of Waterloo. My research focuses on developing reduced-order, physics-informed models to describe fluid behavior in complex environments. I am particularly interested in using machine learning and data-driven methods to understand non-equilibrium processes under extreme conditions, including X-ray irradiation and ultrafast scattering experiments.
+I’m a [Canada Impact+ Postdoctoral Researcher](https://sshrc-crsh.canada.ca/en/funding/opportunities/canada-impact-plus-research-training-awards.aspx) at the University of Waterloo. My research focuses on developing reduced-order, physics-informed models to describe fluid behavior in complex environments. I am particularly interested in using machine learning and data-driven methods to understand non-equilibrium processes under extreme conditions, including X-ray irradiation and ultrafast scattering experiments.
 
 I received my Ph.D. in Mechanical Engineering from Stanford. Prior to that, I completed my master’s and bachelor’s degrees at the University of Waterloo. Past research projects have included characterizing the picosecond dynamics of liquid water ([<ins>PhD thesis</ins>](/assets/pdf/KYounes_PhD_Thesis.pdf)), turbulence wall modeling ([<ins>master's thesis</ins>](/assets/pdf/KYounes_MASc_Thesis.pdf)), fluidic shock-vectoring, indirect noise, and passive control of turbulence.
 
