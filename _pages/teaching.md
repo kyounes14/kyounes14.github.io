@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <u><h3>Stanford University</h3></u> 
-Teaching Assistant - [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall2024_Syllabus.pdf) (ME 30) & [Gas Turbine Analysis](/assets/pdf/Stanford_ME357_Fall2025_Syllabus.pdf) (ME 357), 2024 - 2026
+Teaching Assistant — [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall2024_Syllabus.pdf) (ME 30) & [Gas Turbine Analysis](/assets/pdf/Stanford_ME357_Fall2025_Syllabus.pdf) (ME 357), 2024 -- 2026
 <ul>
 <li>Delivered lectures and bi-quarterly review sessions to 60+ students covering advanced thermodynamic concepts.</li>
 <li>Prepared and graded examinations, regularly monitoring student progress and ensuring fair assessment.</li>
@@ -16,7 +16,7 @@ Teaching Assistant - [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall
 </ul>
 
 <u><h4>University of Waterloo</h4></u>
-Teaching Assistant - Fluid Mechanics I (ME 351) & Heat Transfer (ME 353), 2020 - 2021
+Teaching Assistant — Fluid Mechanics I (ME 351) & Heat Transfer (ME 353), 2020 - 2021
 <ul>
 <li>Ran tutorial sessions and marked examinations for 85+ third-year mechanical engineering students.</li>
 <li>Nominated for and received the Sandford Fleming Foundation Teaching Assistantship Excellence Award.</li>
