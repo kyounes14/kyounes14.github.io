@@ -7,19 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-Graduate Teaching Assistant — Stanford Mechanical Engineering
+<h1>Graduate Teaching Assistant — Stanford Mechanical Engineering</h1>
 
 January 2024 – April 2026
 
-ME 30: Engineering Thermodynamics · ME 357: Gas Turbine Analysis
+<h2>ME 30: Engineering Thermodynamics · ME 357: Gas Turbine Analysis<h2>
+<ul>
+<li>Delivered lectures and bi-quarterly review sessions to 60+ students covering advanced thermodynamic concepts.</li>
+<li>Prepared and graded examinations, regularly monitoring student progress and ensuring fair assessment.</li>
+<li>Held weekly help sessions providing one-on-one support on course material.</li>
+<ul>
 
-Delivered lectures and bi-quarterly review sessions to 60+ students covering advanced thermodynamic concepts.
-
-Prepared and graded examinations, regularly monitoring student progress and ensuring fair assessment.
-
-Held weekly help sessions providing one-on-one support on course material.
-
-Graduate Teaching Assistant — University of Waterloo, Faculty of Engineering
+<h3>Graduate Teaching Assistant — University of Waterloo, Faculty of Engineering</h3>
 
 January 2020 – August 2021
 
