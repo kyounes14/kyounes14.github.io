@@ -11,12 +11,12 @@ nav_order: 2
 
 January 2024 – April 2026
 
-<h2>ME 30: Engineering Thermodynamics · ME 357: Gas Turbine Analysis<h2>
+<h2>ME 30: Engineering Thermodynamics · ME 357: Gas Turbine Analysis</h2>
 <ul>
 <li>Delivered lectures and bi-quarterly review sessions to 60+ students covering advanced thermodynamic concepts.</li>
 <li>Prepared and graded examinations, regularly monitoring student progress and ensuring fair assessment.</li>
 <li>Held weekly help sessions providing one-on-one support on course material.</li>
-<ul>
+</ul>
 
 <h3>Graduate Teaching Assistant — University of Waterloo, Faculty of Engineering</h3>
 
