@@ -1,8 +1,8 @@
 - title: Khaled Younes
   type: list
   contents: 
-    - PhD Candidate @ <a href="https://me.stanford.edu/">Stanford ME</a>
-    - kyounes [at] stanford [dot] edu
+    - Canada Impact+ Postdoctoral Fellow @ <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">UWaterloo</a>
+    - kyounes [at] uwaterloo [dot] ca
 
 - title: Education
   type: time_table
@@ -11,7 +11,7 @@
       institution: Stanford University, Stanford, California
       year: 2026
       description:
-        - Working with Mike Dunne, Matthias Ihme, and David Reis on ML solutions and reduced-order models for online analysis and interpretation of X-ray scattering experiments. 
+        - Worked with Mike Dunne, Matthias Ihme, and David Reis on reduced-order models for online analysis and interpretation of X-ray scattering experiments. 
     - title: Master of Applied Science in Mechanical Engineering
       institution: University of Waterloo, Waterloo, Ontario
       year: 2021
