@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: KhaledYounes_CV.pdf
+cv_pdf: KYounes_CurriculumVitae.pdf
 ---
