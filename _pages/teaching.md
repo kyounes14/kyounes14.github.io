@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <h4><u>Stanford University</u></h4> 
-Teaching Assistant --- [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall2024_Syllabus.pdf) (ME 30) & [Gas Turbine Analysis](/assets/pdf/Stanford_ME357_Fall2025_Syllabus.pdf) (ME 357), 2024 -- 2026
+Teaching Assistant --- [Engineering Thermodynamics](/assets/pdf/Stanford_ME30_Fall2024_Syllabus.pdf) (ME 30) & [Gas Turbine Design Analysis](/assets/pdf/Stanford_ME357_Fall2025_Syllabus.pdf) (ME 357), 2024 -- 2026
 <ul>
 <li>Delivered lectures, tutorials, and midterm and final review sessions to 60+ students across four course offerings.</li>
 <li>Prepared problem sets, examinations, and projects, and graded assessments to ensure fair and consistent evaluation.</li>
