@@ -44,10 +44,10 @@
 #         - University of Waterloo President Scholarship
 #         - Sandford Fleming Teaching Assistantship Excellence Award
 
-<!-- - title: Research Interests
-  type: nested_list
-  contents:
-    - title: Physics-based modeling of fluids in extreme environments
-    - title: High-speed and hypersonic boundary layers
-    - title: Real-fluid thermodynamics and supercritical flows
-    - title: Data-efficient methods for experiments and simulations -->
+# - title: Research Interests
+#  type: nested_list
+#  contents:
+#    - title: Physics-based modeling of fluids in extreme environments
+#    - title: High-speed and hypersonic boundary layers
+#    - title: Real-fluid thermodynamics and supercritical flows
+#    - title: Data-efficient methods for experiments and simulations -->
